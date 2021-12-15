@@ -1,0 +1,101 @@
+.pieza__tablero {
+    position: absolute;
+    width: 129px;
+    height: 129px;
+}
+.pos-1{
+    top: 0;
+    left: 0;
+}
+.pos-2{
+    top: 0;
+    left: 129px;
+}
+.pos-3{
+    top: 0;
+    left: 230px;
+}
+.pos-4{
+    top: 0;
+    left: 386px;
+}
+.pos-5{
+    top: 0;
+    left: 487px;
+}
+.pos-6{
+    top: 0;
+    left: 644px;
+}
+.pos-7{
+    top: 101px;
+    left: 0;
+}
+.pos-8{
+    top: 129px;
+    left: 101px;
+}
+.pos-9{
+    top: 101px;
+    left: 257px;
+}
+.pos-10{
+    top: 129px;
+    left: 359px;
+}
+.pos-11{
+    top: 101px;
+    left: 515px;
+}
+.pos-12{
+    top: 129px;
+    left: 617px;
+}
+.pos-13{
+    top: 256px;
+    left: 0;
+}
+.pos-14{
+    top: 230px;
+    left: 129px;
+}
+.pos-15{
+    top: 256px;
+    left: 230px;
+}
+.pos-16{
+    top: 230px;
+    left: 386px;
+}
+.pos-17{
+    top: 256px;
+    left: 488px;
+}
+.pos-18{
+    top: 230px;
+    left: 644px;
+}
+.pos-19{
+    top: 358px;
+    left: 0;
+}
+.pos-20{
+    top: 386px;
+    left: 101px;
+}
+.pos-21{
+    top: 358px;
+    left: 257px;
+}
+.pos-22{
+    top: 385px;
+    left: 359px;
+}
+.pos-23{
+    top: 358px;
+    left: 515px;
+}  
+.pos-24{
+    top: 385px;
+    left: 617px;
+}
